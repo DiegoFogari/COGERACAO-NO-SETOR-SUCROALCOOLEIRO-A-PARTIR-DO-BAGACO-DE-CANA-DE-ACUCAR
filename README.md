@@ -1,0 +1,9 @@
+⚠️ Restrições de Uso Este material é fornecido "no estado em que se encontra" e destina-se unicamente a . Qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor. Para outras finalidades ou solicitações de uso que não se enquadrem nas condições de uso acadêmico e não comercial, por favor, entre em contato com o autor.
+
+Diego Henrique Viega Fogari diihfogari@gmail.com
+
+
+# COGERACAO-NO-SETOR-SUCROALCOOLEIRO-A-PARTIR-DO-BAGACO-DE-CANA-DE-ACUCAR
+
+
+Como uma alternativa sustentável e econômica, as usinas do setor sucroalcooleiro no Brasil apostaram na redução da dependência de combustíveis fósseis utilizando a cogeração de energia elétrica a partir do bagaço da cana-de-açúcar, como uma geração de energia limpa. Este estudo de caso analisa o processo de cogeração de energia elétrica na Usina São João, em Araras, SP, abordando o sincronismo com a rede elétrica da concessionária ELEKTRO, os avanços tecnológicos da Indústria 4.0 e os benefícios econômicos e ambientais. A modernização da usina, com investimento de R$ 82 milhões para a Caldeira 2 e o Gerador 5, elevou a eficiência energética, permitindo autossuficiência e a comercialização de excedentes de até 12 MW, reforçando o papel do setor sucroalcooleiro na diversificação da matriz energética nacional. O retorno do investimento, estimado em 3,3 anos, concretizou-se em 5,9 anos. O trabalho destaca a contribuição da cogeração para a mitigação das mudanças climáticas, com redução de emissões de gases de efeito estufa, e aborda a gestão das demandas de importação e exportação de energia, incluindo penalidades por ultrapassagem dos limites contratados com a concessionária. 
